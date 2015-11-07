@@ -2,9 +2,13 @@
 1. [Current Progress](#current-progress)
 2. [Background](#background)
 
-<div id='current-progress'/>
 ## Current Progress
 20151107 1304CST
+Starting from [This blog post from blog.juxt.pro](http://blog.juxt.pro/posts/beanstalk.html) (and keeping in our pocket [this post on rapid deployment](https://blog.giantswarm.io/deploy-clojure-application-in-1-minute/))
+
+It recommends that we 
+https://www.docker.com/docker-toolbox
+
 
 
 ## Background
