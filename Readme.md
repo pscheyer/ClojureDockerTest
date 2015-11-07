@@ -1,7 +1,8 @@
 #table of contents
 1. [Current Progress](#current-progress)
-2. [Background](background)
+2. [Background](#background)
 
+<div id='current-progress'/>
 ## Current Progress
 20151107 1304CST
 
